@@ -1,29 +1,9 @@
-# Blame Bot
+# Discord Bot
 
 <p align="center">
-  <img src="https://i.imgur.com/3Yxtwyh.png" alt="Blame-Wallpaper cropped">
+  <img src="https://dsc.gg/sigencorp" alt="Nothing">
 </p>
 
-<p align="center">
-  <a href="https://github.com/inadvertently/blamev2">
-    <img src="https://img.shields.io/badge/deploy_to-heroku-997FBC.svg?style=for-the-badge&logo=Heroku">
-  </a>
-  <a href="https://discord.gg/AgRNafGd">
-    <img src="https://img.shields.io/discord/818179462918176769.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge" alt="Support">
-  </a>
-  <a href="https://patreon.com/blamebot">
-    <img src="https://img.shields.io/badge/patreon-donate-orange.svg?style=for-the-badge&logo=Patreon" alt="Python 3.7">
-  </a>
-  <a href="https://www.python.org/downloads/">
-    <img src="https://img.shields.io/badge/Made%20With-Python%203.8-blue.svg?style=for-the-badge&logo=Python" alt="Made with Python 3.8">
-  </a>
-  <a href="https://github.com/inadvertently/blamev2">
-    <img src="https://img.shields.io/badge/Code%20Style-Black-black?style=for-the-badge">
-  </a>
-  <a href="https://github.com/inadvertently/blamev2">
-    <img src="https://img.shields.io/badge/license-agpl-e74c3c.svg?style=for-the-badge" alt="MIT License">
-  </a>
-</p>
 
 ---
 
@@ -58,19 +38,12 @@
 
 <p align="center"><b><i>
   *These are only some of the features; you can explore the source for more :)</b></i>
-  <br>by Jacob, Cop, Kite & Curse. References include: Red Bot, Miso Bot & RoboDanny
+  <br>by Pixel. References include: Red Bot, Miso Bot & RoboDanny
 </p>
 
 
 ---
 
-# 📝 | Overview
-
-Blame is meant to be an advanced discord bot, this means all commands, modules, and features can be enabled/disabled per guild. Each module that involves events, is cached on the bot starts up. This was more of an official bot rather than something that was meant to be open-sourced - this means that it can be a bit difficult for some to get running as it contains many dependencies.
-
-[Installation](#installation) is easy in the sense that you should have a bit of coding experience. For those that don't, i'd recommend navigating to certain modules, extracting them, and adding them to your bot.
-
----
 
 # 📝 | Installation
 
@@ -167,10 +140,3 @@ python main.py
 | `boost`  | Custom roles, boost messages, and rewards upon a user boosting the server |
 | `fakeperms`  | Set specific commands that normal users can use through the bot. Eg: ``;fakeperms set @jacob ban_members`` This will allow jacob to use any command through the bot that requires ``ban_members`` permission|
 
-# ❓ | Why was blame discontinued?
-
-Many reasons. My plan was not to discontinue blame but as the saying goes, all good things come to an end.
-
-Project Blame began in January of 2021 with the main developer being Sorrow (We'll refer to him as Jacob). The goal was to create a bot that could protect against Server Nuking, Server Raids and bot abuse. As the year progressed, Kite, had stumbled across the project and later on joined the team and took charge of the bots marketing. Blame was officially released on Sepetember 25, 2021. Within the first month of development, the bot grew astronomically which gave us a ton of motivation to continue the project. During 2022, the bot began to progress but extremly faster than before. We required a dev, not just any, we needed one with experience; then came along **zack**. Zack was able to scale the bot as it needed to be which we had failed to do beforehand.
-
-Today, Blame has came a long way from it's humble beginnings and reached a guild count of 12,000 and a user count of 10,000,000.
