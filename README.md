@@ -34,6 +34,9 @@
   • LastFM Integration<br>
   • Server Booster Rewards<br>
   • TikTok to MP4<br>
+  • Weather commands for checking current weather and forecasts<br>
+  • Reminder system for setting timed reminders<br>
+  • Advanced poll system with multiple options and timed polls<br>
 </p>
 
 <p align="center"><b><i>
@@ -139,4 +142,6 @@ python main.py
 | `autoreact`  | Allows you to set custom trigger words that it'll then respond to by reacting with specific emoji(s) |
 | `boost`  | Custom roles, boost messages, and rewards upon a user boosting the server |
 | `fakeperms`  | Set specific commands that normal users can use through the bot. Eg: ``;fakeperms set @jacob ban_members`` This will allow jacob to use any command through the bot that requires ``ban_members`` permission|
-
+| `weather`  | Check current weather conditions and forecasts for any location in the world |
+| `reminders`  | Set timed reminders for yourself or for a channel, with support for listing and managing your reminders |
+| `polls`  | Create and manage polls with multiple options, timed polls, and detailed results |
